@@ -1,4 +1,4 @@
-Here’s a simple **README.md** for your code:
+ simple guide on how the program runs:
 
 ---
 
